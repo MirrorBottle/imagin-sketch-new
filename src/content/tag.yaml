@@ -1,3 +1,24 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+- id: romance
+  depscription: Dalam kehidupan, kau butuh apa yang disebut sebagia "cinta" sesekali.
+  image: img/tags/romance.jpg
+- id: gore
+  description: Terdapat merahnya darah dalam tubuh manusia, begitu pula dalam tulisan ini
+  image: img/tags/gore.jpg
+- id: changed pov
+  description: Jangan hanya percaya dengan sudut pandangmu seorang, lihatlah dari sisi lawanmu.
+  image: img/tags/changed-pov.jpg
+- id: horror
+  description: Walau tidak terlihat, kau dapat merasakan keberadaan sosoknya di balik kegelapan malam.
+  image: img/tags/horror.jpg
+- id: slice of life
+  description: Tulislah pengalaman, kemudian bacalah di masa tuamu, buku perjalanan hidupmu.
+  image: img/tags/slice-of-life.jpg
+- id: psychological
+  description: Di balik gumpalan daging milikmu, terdapat jiwa yang rapuh. Berhati-hatilah.
+  image: img/tags/depressed.jpg
+- id: blog
+  description: Terkadang, aku ingin menulis sesuatu yang berbeda.
+  image: img/tags/blog.jpg
