@@ -2,7 +2,7 @@
 title: 'Pesta Sendiri'
 author: [Bayu Setiawan]
 tags: ['Gore']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/pesta-sendiri.jpg
 date: '2020-11-03'
 draft: false
 ---

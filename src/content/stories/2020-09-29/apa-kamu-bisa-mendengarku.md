@@ -2,7 +2,7 @@
 title: 'Apa Kamu Bisa Mendengarku'
 author: [Bayu Setiawan]
 tags: ['Romance']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/apa-kamu-bisa-mendengarku.jpg
 date: '2020-10-05'
 draft: false
 ---

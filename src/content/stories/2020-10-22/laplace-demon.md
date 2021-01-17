@@ -2,7 +2,7 @@
 title: 'Laplace Demon'
 author: [Bayu Setiawan]
 tags: ['Psychological']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/laplace-demon.jpg
 date: '2020-10-22'
 draft: false
 ---

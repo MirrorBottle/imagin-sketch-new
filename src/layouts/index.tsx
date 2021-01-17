@@ -7,6 +7,7 @@ import { lighten } from 'polished';
 // @ts-ignore
 import favicon from '../../src/favicon.ico';
 import { colors } from '../styles/colors';
+import config from "../website-config";
 
 interface IndexProps {
   className?: string;
@@ -17,6 +18,21 @@ const IndexLayout: React.FC<IndexProps> = props => {
     <div className={props.className}>
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
+        <script type="application/ld+json">
+          {`
+            {
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "url":  ${config.siteUrl},
+              "name": ${config.title},
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+6282353165184",
+                "contactType": "Personal Contact"
+              }
+            }
+          `}
+        </script>
       </Helmet>
       <Global
         styles={css`

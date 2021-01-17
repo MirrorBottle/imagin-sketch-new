@@ -2,7 +2,7 @@
 title: 'Yang Seharusnya Tidak Ada'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/yang-seharusnya-tidak-ada.jpg
 date: '2020-11-20'
 draft: false
 ---

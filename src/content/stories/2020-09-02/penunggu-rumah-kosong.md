@@ -2,7 +2,7 @@
 title: 'Penunggu Rumah Kosong'
 author: [Bayu Setiawan]
 tags: ['Slice of Life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/penunggu-rumah-kosong.jpg
 date: '2020-09-02'
 draft: false
 ---

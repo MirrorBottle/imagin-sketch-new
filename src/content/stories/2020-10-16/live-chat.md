@@ -2,7 +2,7 @@
 title: 'Live Chat'
 author: [Bayu Setiawan]
 tags: ['Horror']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/live-chat.jpg
 date: '2020-10-16'
 draft: false
 ---

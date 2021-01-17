@@ -2,7 +2,7 @@
 title: 'Kewajiban Kasih'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/kewajiban-kasih.jpg
 date: '2020-10-29'
 draft: false
 ---

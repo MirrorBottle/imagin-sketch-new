@@ -2,7 +2,7 @@
 title: 'Riot'
 author: [Bayu Setiawan]
 tags: ['Romance']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/riot.jpg
 date: '2020-10-08'
 draft: false
 ---

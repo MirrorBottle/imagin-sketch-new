@@ -2,7 +2,7 @@
 title: 'Sendiri'
 author: [Bayu Setiawan]
 tags: ['Romance']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/sendiri.jpg
 date: '2020-11-03'
 draft: false
 ---

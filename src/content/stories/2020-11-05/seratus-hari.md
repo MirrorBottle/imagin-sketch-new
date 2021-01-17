@@ -2,7 +2,7 @@
 title: 'Seratus Hari'
 author: [Bayu Setiawan]
 tags: ['Psychological']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/100-hari.jpg
 date: '2020-11-05'
 draft: false
 ---

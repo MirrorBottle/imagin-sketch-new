@@ -2,7 +2,7 @@
 title: 'Long Way Down'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/long-way-down.jpg
 date: '2020-10-09'
 draft: false
 ---

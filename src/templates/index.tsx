@@ -59,6 +59,8 @@ const IndexPage: React.FC<IndexProps> = props => {
         <html lang={config.lang} />
         <title>{config.title}</title>
         <meta name="description" content={config.description} />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        <meta name="keywords" content="blog, tulisan, writing, story, cerita, menulis"/>
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={config.title} />

@@ -2,7 +2,7 @@
 title: 'Melangkah'
 author: [Bayu Setiawan]
 tags: ['Romance']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/melangkah.jpg
 date: '2020-10-11'
 draft: false
 ---

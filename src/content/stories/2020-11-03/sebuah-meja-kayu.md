@@ -2,7 +2,7 @@
 title: 'Sebuah Meja Kayu'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/sebuah-meja-kayu.jpg
 date: '2020-11-03'
 draft: false
 ---

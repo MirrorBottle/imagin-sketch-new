@@ -2,7 +2,7 @@
 title: 'Membaca'
 author: [Bayu Setiawan]
 tags: ['Changed POV']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/membaca.jpg
 date: '2020-10-15'
 draft: false
 ---

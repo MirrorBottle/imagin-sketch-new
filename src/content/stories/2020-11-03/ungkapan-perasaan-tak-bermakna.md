@@ -2,7 +2,7 @@
 title: 'Ungkapan Perasaan tak Bermakna'
 author: [Bayu Setiawan]
 tags: ['Psychological']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/ungkapan-perasaan-tak-bermakna.jpg
 date: '2020-11-03'
 draft: false
 ---

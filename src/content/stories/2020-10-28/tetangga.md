@@ -2,7 +2,7 @@
 title: 'Tetangga'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/tetangga.jpg
 date: '2020-10-28'
 draft: false
 ---

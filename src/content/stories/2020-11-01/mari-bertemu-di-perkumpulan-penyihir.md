@@ -2,7 +2,7 @@
 title: 'Mari Bertemu di Perkumpulan Penyihir'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/mari-bertemu-di-perkumpulan-penyihir.png
 date: '2020-11-01'
 draft: false
 ---

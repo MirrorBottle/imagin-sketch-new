@@ -2,7 +2,7 @@
 title: 'Benang Hitam'
 author: [Another Author]
 tags: ['Psychological']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/benang-hitam.jpg
 date: '2020-10-20'
 draft: false
 ---

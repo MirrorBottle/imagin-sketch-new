@@ -2,7 +2,7 @@
 title: 'Menjadi Diriku'
 author: [Bayu Setiawan]
 tags: ['Romance']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/menjadi-diriku.jpg
 date: '2020-11-02'
 draft: false
 ---

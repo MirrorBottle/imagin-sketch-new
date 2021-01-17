@@ -2,7 +2,7 @@
 title: 'Kelopak Terakhir'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/kelopak-terakhir.jpg
 date: '2020-11-14'
 draft: false
 ---

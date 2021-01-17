@@ -2,7 +2,7 @@
 title: 'Boneka'
 author: [Bayu Setiawan]
 tags: ['Gore']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/boneka.jpg
 date: '2020-10-05'
 draft: false
 ---

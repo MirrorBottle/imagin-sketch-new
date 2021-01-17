@@ -2,7 +2,7 @@
 title: 'Kita'
 author: [Bayu Setiawan]
 tags: ['Psychological']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/kita.jpg
 date: '2020-11-03'
 draft: false
 ---

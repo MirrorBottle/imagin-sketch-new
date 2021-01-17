@@ -2,7 +2,7 @@
 title: 'Hubungan'
 author: [Another Author]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/hubungan.jpg
 date: '2020-10-12'
 draft: false
 ---
