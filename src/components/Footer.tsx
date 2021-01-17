@@ -32,11 +32,12 @@ export const Footer: React.FC = () => {
               Twitter
             </a>
           )}
-
-          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
-            Casper
+          <a href="https://www.linkedin.com/in/bayu-setiawan-656357202/linkedin.com/in/bayu-setiawan-656357202/" target="_blank" rel="noopener noreferrer">
+            LinkedIn
           </a>
-
+          <a href="https://bayusetiawan.netlify.app/" target="_blank" rel="noopener noreferrer">
+            My Site
+          </a>
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
       </div>
