@@ -1,6 +1,6 @@
 ---
 title: 'Hubungan'
-author: [Another Author]
+author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/hubungan.jpg
 date: '2020-10-12'

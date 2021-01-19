@@ -1,6 +1,6 @@
 ---
 title: 'Benang Hitam'
-author: [Another Author]
+author: [Bayu Setiawan]
 tags: ['Psychological', 'Slice of Life', 'Changed POV']
 image: ../../img/stories/benang-hitam.jpg
 date: '2020-10-20'
