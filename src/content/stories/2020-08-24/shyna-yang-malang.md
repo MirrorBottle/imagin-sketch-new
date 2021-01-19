@@ -2,7 +2,7 @@
 title: 'Shyna yang Malang'
 author: [Bayu Setiawan]
 tags: ['Slice of life']
-image: img/marvin-meyer-794521-unsplash.jpg
+image: ../../img/stories/penunggu-rumah-kosong.jpg
 date: '2020-08-24'
 excerpt: 'something'
 draft: true

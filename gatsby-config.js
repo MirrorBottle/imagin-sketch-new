@@ -12,24 +12,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-plugin-sharp',
-      options: {
-        defaultQuality: 100,
-        stripMetadata: true,
-      },
-    },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sitemap',
-    {
-      resolve: 'gatsby-plugin-robots-txt',
-      options: {
-        host: 'https://imagin-sketch.netlify.app',
-        sitemap: 'https://imagin-sketch.netlify.app/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/' }],
-      },
-    },
-
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'content',
@@ -58,6 +40,23 @@ module.exports = {
             },
           },
         ],
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-sharp',
+      options: {
+        defaultQuality: 100,
+        stripMetadata: true,
+      },
+    },
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://imagin-sketch.netlify.app',
+        sitemap: 'https://imagin-sketch.netlify.app/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }],
       },
     },
     'gatsby-transformer-json',
