@@ -2,7 +2,7 @@
 title: 'Duke of Akashic - Record 0'
 author: [Bayu Setiawan]
 tags: ['Duke of Akashic']
-image: ../../img/stories/duke-of-akashic.jpg
+image: ../../img/stories/duke-of-akashic/duke-of-akashic-0.jpg
 date: '2020-12-13'
 draft: false
 ---

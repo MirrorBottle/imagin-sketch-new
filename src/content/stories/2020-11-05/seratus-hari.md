@@ -1,7 +1,7 @@
 ---
 title: 'Seratus Hari'
 author: [Bayu Setiawan]
-tags: ['Psychological']
+tags: ['Psychological', 'Slice of Life']
 image: ../../img/stories/100-hari.jpg
 date: '2020-11-05'
 draft: false
@@ -44,7 +44,7 @@ Tanganku sempat terhenti waktu mengikat tali sepatu, tidak lama, sepersekian det
 
 **Hari 10**
 
-Aku pergi menuju gudang sekolah untuk pertama kalinya, itulah yang kurasakan, tetapi tidak dengan yang temanku katakan. Kaki kami pernah menapak di lantai kayu usang bangungn kecil di ujung sekolah itu, tepatnya waktu minggu awal dua tahun lalu, waktu kami masih murid baru.
+Aku pergi menuju gudang sekolah untuk pertama kalinya, itulah yang kurasakan, tetapi tidak dengan yang temanku katakan. Kaki kami pernah menapak di lantai kayu usang bangunan kecil di ujung sekolah itu, tepatnya waktu minggu awal dua tahun lalu, waktu kami masih murid baru.
 
 **Hari 11**
 
@@ -56,11 +56,11 @@ Bola menghantam wajahku saat praktik bermain bola voli, aku berakhir menghabiska
 
 **Hari 13**
 
-Hari libur. Lupa berhenti di halaman berapa aku mengulang membacanya. Salahku sendiri karena tidak memberi tanda, hal semacam ini biasa, kan?
+Hari libur. Lupa berhenti di halaman berapa aku pun mengulang membacanya. Salahku sendiri karena tidak memberi tanda, hal semacam ini biasa, kan?
 
 **Hari 14**
 
-Delapan puluh enam hari lagi, aku rasa aku maish punya banyak waktu. Ah, aku baru sadar ternyat amasih banyak yang ingin kulakukan.
+Delapan puluh enam hari lagi, aku rasa aku masih punya banyak waktu. Ah, aku baru sadar ternyata masih banyak yang ingin kulakukan.
 
 **Hari 15**
 
@@ -72,7 +72,7 @@ Wanita itu memintaku untuk terus menulis seperti ini, “Aku bisa melihat perkem
 
 **Hari 17**
 
-Ujung jari telunjukku mengeluarkan tetes darah, aku tidak sengaja menyayatnya ketika membantu memotong sayuran. Ibu mengatakan bahwa ia tidak butuh bantuan, tetapi aku tetap ingin memasak bersamanya. Hal ini sudah kulakukan sejak di sekolah dasar, sebuah kebiasaan, dan menghilangkan kebiasaan adalah hal yang sulit. Beliau hanya memberi senyum lembut.
+Ujung jari telunjukku mengeluarkan tetes darah, aku tidak sengaja menyayatnya ketika memotong sayuran. Ibu mengatakan bahwa ia tidak butuh bantuan, tetapi aku tetap ingin memasak bersamanya. Hal ini sudah kulakukan sejak di sekolah dasar, sebuah kebiasaan, dan menghilangkan kebiasaan adalah hal yang sulit. Beliau hanya memberi senyum lembut.
 
 **Hari 19**
 
@@ -84,7 +84,7 @@ Ayah memutuskan untuk pergi bersama ke kebun binatang. Sudah lama aku tidak meng
 
 **Hari 21**
 
-Ayah berbicara soal salah satu kuda yang ada di kebun binatang kemarin, aku masih mengingatnya, putih bulunya ekornya benar-benar indah. Tawanya menggelegar di seluruh ruang makan ketika ia mengingat kembali soal topiku yang dibawa pergi oleh kuda itu waktu TK. Aku tidak mengingatnya dan hanya tertawa canggung.
+Ayah berbicara soal salah satu kuda yang ada di kebun binatang kemarin, aku masih mengingatnya, putih ekornya benar-benar indah. Tawanya menggelegar di seluruh ruang makan ketika ia mengingat kembali soal topiku yang dibawa pergi oleh kuda itu waktu TK. Aku tidak mengingatnya walau begitu tetap mencoba tuk tertawa.
 
 **Hari 22**
 
@@ -96,63 +96,63 @@ Entah karena ucapan lelaki itu, aku terjatuh ketika menuruni tangga menuju ruang
 
 **Hari 24**
 
-Aku mengatakan kepada wanita berbaju lab itu bahwa aku mulai lembat mencatat apa yang diterangkan di papan tulis waktu pelajaran berlangsung. Beberapa kali aku meminjam catatan temanku yang belum kutulis. Ia hanya tersenyum lembut dan menyerahkan kembali buku catatanku.
+Aku mengatakan kepada wanita berjubah lab itu bahwa kecepatan mencatatku mulai melambat saat pelajaran. Beberapa kali aku meminjam catatan temanku yang belum kutulis. Ia hanya tersenyum lembut dan ketika kumenyerahkan kembali buku catatannya.
 
 **Hari 27**
 
-Aku sengaja tidak menulis selama dua hari ini. Alasannya? Aku sendiri tidak tahu. Tidak ada yang terjadi juga di dua hari terakhir, setidaknya sesuatu yang penting. Sebenarnya aku sendiri tidak ingin sisa waktu hidupku tidak tercatat, hanya saja, tanganku tidak ingin bergerak. Aku terus memikirkan apa yang akan terjadi padaku, di hari kelima puluh, ke tujuh puluh, atau sepuluh hari terakhir. Apa aku akan baik-baik saja? Apa mentalku akan runtuh dan hancur lebur? Apa aku masih bisa hidup? Tolong, seseorang, jawablah.
+Aku sengaja tidak menulis selama dua hari ini. Alasannya? Aku sendiri tidak tahu. Tidak ada yang terjadi juga selama dua hari terakhir, setidaknya sesuatu yang penting. Sebenarnya aku sendiri enggan sisa waktu hidupku tidak tercatat, hanya saja, tanganku bergeming. Aku terus memikirkan apa yang akan terjadi padaku, di hari kelima puluh, ke tujuh puluh, atau sepuluh hari terakhir. Apa aku akan baik-baik saja? Apa mentalku berakhir runtuh dan hancur lebur? Apa aku masih bisa hidup? Tolong, seseorang, beri aku jawaban.
 
 **Hari 28**
 
-Aku membawa buku yang salah dan berakhir berbagi meja dengan sebelahku. Sepertinya aku tidak bisa percaya lagi dengan ingatanku, wanita itu juga mengatakan hal yang sama. Aku juga berpapasan dengan lelaki itu di lorong, kami tidak berbicara, tidak pula bertukar pandang.
+Aku membawa buku yang salah dan berakhir berbagi meja dengan sebelahku. Sepertinya aku tidak bisa percaya lagi dengan ingatanku, wanita itu juga mengatakan hal yang sama. Aku kembali berpapasan dengan lelaki itu di lorong, kami tidak berbicara, tidak pula bertukar pandang.
 
 **Hari 29**
 
-Kakiku tidak bisa digerakkan pagi ini ketika aku membuka mata. Aku sama sekali tidak bisa menggerakannya sedikitpun, serasa bukan milikku. Hal itu hanya berlangsung beberapa menit saja, tetapi berhasil membuat keringat dingin menetes deras dari dahiku. Rasanya benar-benar buruk, aku sudah dibertahu ini, tidak lama lagi, aku akan lumpuh.
+Kakiku tidak bisa digerakkan pagi ini ketika aku membuka mata. Aku sama sekali tidak bisa menggerakannya sedikitpun, serasa bukan milikku. Hal itu hanya berlangsung beberapa menit saja, tetapi berhasil membuat keringat dingin menetes deras dari dahiku. Rasanya benar-benar buruk, aku sudah diperingati tentang ini, tidak lama lagi, aku akan lumpuh.
 
 **Hari 30**
 
-Sebulan sejak aku mengkonsumsi obat-obatan, bertemu dokter itu, dan sisa waktuku adalah tujuh puluh hari lagi. Seharusnya aku bisa meminta lebih banyak hal kepada orang tuaku, lagipula sebentar lagi aku akan mati, tetapi tidak. Aku merasa kosong, tidak ada yang kuinginkan selain menghilangnya penyakit ini. Lama-kelamaan aku merasa tubuh ini bukan tubuhku. Aku benci ini.
+Sebulan sejak aku mengkonsumsi obat-obatan, bertemu dokter itu, dan sisa waktuku adalah tujuh puluh hari lagi. Seharusnya aku bisa meminta lebih banyak hal kepada orang tuaku, lagipula sebentar lagi aku akan mati, tetapi tidak. Aku merasa kosong, tidak ada yang kuinginkan selain hilangnya penyakit ini. Lama-kelamaan aku merasa tubuh ini bukan tubuhku. Aku benci ini.
 
 **Hari 31**
 
-Aku mengalami kesulitan saat berbicara soal acara televisi semalam bersama teman-temanku. Tatapan itu, tatapan yang menunjukkan rasa iba dan kasihan, aku tidak senang. Aku tidak ingin dikasihani, aku hanya ingin hidup seperti kalian. Penyakit ini, penyakit ini, semua salah penyakit ini!
+Aku mengalami kesulitan saat berbicara soal acara televisi semalam bersama teman-temanku. Tatapan itu, tatapan yang menunjukkan rasa iba dan kasihan, aku tidak senang. Aku tidak ingin dikasihani, aku hanya ingin hidup seperti kalian. Penyakit ini, penyakit ini, semua salah penyakit sialan ini!
 
 **Hari 32**
 
-Hidungku berdarah, wajahku mencium lantai dingin sekolahan waktu terjatuh dari tangga. Kembali aku ke ruangan ini, dan kembali aku menemui lelaki itu. Sesekali aku mendegar suara tawa sangat kecil darinya, sesaat setelah mata itu memandang tisu yang menyumbat lubang hidungku. Merasa terganggu aku pun menanyakan alasan dia tertawa, wajahnya berubah serius, “Tetaplah menulis, itu akan membantumu, aku rasa.” Aku sama sekali tidak bisa memahami maksud perkataan lelaki itu. Apa yang keluar dari mulutnya, seakan-akan ia tahu penyakitku.
+Hidungku berdarah, wajahku mencium lantai dingin sekolah waktu terjatuh dari tangga. Kembali aku ke ruangan ini, dan kembali aku menemui lelaki itu. Sesekali aku mendegar suara tawa sangat kecil darinya, sesaat setelah mata itu memandang tisu yang menyumbat lubang hidungku. Merasa terganggu aku pun menanyakan alasan dia tertawa, wajahnya berubah serius, “Tetaplah menulis, itu akan membantumu, aku rasa.” Aku sama sekali tidak bisa memahami maksud perkataan lelaki itu. Apa yang keluar dari mulutnya, seakan-akan ia tahu penyakitku.
 
 **Hari 33**
 
-Aku menginjakkan kaki di kelas yang kosong, kelasku. Aku berkeliling sekolah dan seorang guru memanggilku, wisata ke luar kota. Aku melupakannya. Bagaimana bisa coba? Aku sudah diberitahu soal hal itu minggu lalu, bagaimana aku bisa lupa?! Aku pulang dan ketika Ibu datang aku mengatakannya. Mulai hari ini, segala macam acara akan dilaporkan kepada kedua orang tuaku.
+Aku menginjakkan kaki di kelas yang kosong, kelasku. Aku berkeliling sekolah dan seorang guru memanggilku, wisata ke luar kota. Aku melupakannya. Bagaimana bisa?! Aku sudah diberitahu soal hal itu minggu lalu, bagaimana aku bisa lupa?! Aku pulang dan ketika Ibu datang aku mengatakannya. Mulai hari ini, segala macam acara akan dilaporkan kepada kedua orang tuaku.
 
 **Hari 34**
 
-Ibu tidak bekerja hari ini, rasa khawatirnya masih belum hilang walau aku mengatakan bahwa aku sudah bisa menggerakkan kakiku lagi. Kali ini lebih lama ketimbang pertama kalinya. Setelah bisa menggerakkan jari kakiku, butuh beberapa menit hingga aku bisa berjalan normal. Berjalan normal, ya… berapa lama lagi aku bisa seperti ini.
+Ibu tidak bekerja hari ini, rasa khawatirnya masih belum hilang walau aku mengatakan bahwa aku sudah bisa menggerakkan kakiku lagi. Kali ini lebih lama ketimbang sebelumnya. Setelah bisa menggerakkan jari kakiku, butuh beberapa menit hingga aku bisa berjalan normal. Berjalan normal, ya… tinggal berapa lama lagi aku bisa melakukannya.
 
 **Hari 37**
 
-Wisata yang tidak kuhadiri berakhir kemaren dan kelas dimulai seperti biasa. “Aku kesiangan,” itulah jawabanku kepada mereka yang bertanya kenapa aku tidak ikut. Aku ketinggalan alur pembicaraan, mereka terus membahas soal apa yang sudah nikmati. Itu hal wajar, lagipula sejak awal aku tidak bisa mengikuti pembicaraan ini dengan benar. Aku selalu berhenti tiba-tiba, kesusahan mencari kata-kata.
+Wisata yang tidak kuhadiri berakhir kemarin dan kelas dimulai seperti biasa. “Aku kesiangan,” itulah jawabanku kepada mereka yang bertanya. Aku ketinggalan alur pembicaraan, mereka terus membahas apa yang sudah mereka nikmati. Itu hal wajar, lagipula sejak awal aku tidak bisa mengikuti pembicaraan ini dengan benar. Aku selalu berhenti tiba-tiba, kesusahan mencari kata-kata.
 
 **Hari 38**
 
-Tangan kananku terasa tidak bertenaga sejak aku bangun, bahkan aku meminta Ibu membantu memakaikan seragam. Tidak menulis selama pelajaran, memakan roti dengan tangan kiri secara aneh, aku kesusahan mengangakat tanganku sendiri. APA-APAAN INI.
+Tangan kananku terasa tidak bertenaga sejak aku bangun, bahkan aku meminta Ibu membantu memakaikan seragam. Tidak menulis selama pelajaran, memakan roti dengan tangan kiri secara aneh, aku kesusahan mengangkat tanganku sendiri. APA-APAAN INI! JANGAN BERCANDA!
 
 **Hari 39**
 
-Aku mulai menjauhkan diri dari teman-temanku, dan mereka tidak berbuat apa-apa, syukurlah. Beberapa kata yang keluar dari mulutku mulai sulit dimengerti orang lain, walau aku yakin sudah mengucapkannya dengan benar. Apa yang wanita itu katakan benar, aku sudah mulai kehilangan kemampuan berbicara.
+Aku mulai menjauhkan diri dari teman-temanku, dan mereka tidak berbuat apa-apa, syukurlah. Beberapa kata yang keluar dari mulutku mulai sulit dimengerti orang lain, walau aku yakin sudah mengucapkannya dengan benar. Apa yang wanita itu katakan menjadi kenyataan, aku sudah mulai kehilangan kemampuan berbicara.
 
 **Hari 44**
 
-Aku menghabiskan lima hari di rumah sakit yang sering kukunjungi. Kakiku terkilir, aku kembali terjatuh dari tangga ketika ingin pergi ke kamar mandi. Tiba-tiba saja kaki yang menjadi tumpuanku hilang keseimbangan ketika melangkah, membuat pergelangan kaki kananku hampir patah. Ibu memintaku untuk tidur di lantai bawah mulai hari ini, aku menerimanya. 
+Aku menghabiskan lima hari di rumah sakit yang sering kukunjungi. Kakiku terkilir, aku kembali terjatuh dari tangga ketika ingin pergi ke kamar mandi. Tiba-tiba saja kaki yang menjadi tumpuan utamaku hilang keseimbangan ketika melangkah, membuat pergelangan kaki kananku hampir patah. Ibu memintaku untuk tidur di lantai bawah mulai hari ini, aku menerimanya. 
 
 **Hari 45**
 
-Aku tidak bisa menyebut nama salah satu teman sekelasku karena tidak bisa mengingatnya. Jadi aku hanya meng-“hey”-kan orang itu dan mengatakan bahwa ada guru yang sedang mencarinya. Akhirnya aku sudah sampai di tahap ini, yah, lagipula aku tidak terlalu sering berbicara dengan orang itu, aku rasa wajar sesekali melupakan nama seseorang, kan?
+Aku tidak bisa menyebut nama salah satu teman sekelasku ketika akan memanggilnya. Jadi aku hanya meng-“hey”-kan orang itu dan mengatakan bahwa ada guru yang mencarinya. Akhirnya aku sudah sampai di tahap ini, yah, lagipula aku tidak terlalu sering berbicara dengan orang itu, aku rasa wajar sesekali melupakan nama seseorang, kan?
 
 **Hari 46**
 
-Sejak kejadian jatuh kemarin, aku selalu berpegangan dengan bagian sisi tangga sekolah ketika berpindah lantai. Tidak lagi sekedar ingatan, aku juga tidak bisa mempercayai daging tubuhku sendiri. Apa sebenarnya diriku sekarang, siapa diriku. Pertanyaan itu sudah sering berputar di kepalaku, aku membiarkannya, aku tidak bisa menjawabnya.
+Sejak kejadian jatuh kemarin, aku selalu berpegangan dengan bagian sisi tangga sekolah ketika berpindah lantai. Tidak lagi sekedar ingatan, aku sudah tidak bisa mempercayai daging tubuhku sendiri. Apa sebenarnya diriku sekarang, siapa diriku. Pertanyaan itu sudah sering berputar di kepalaku, aku membiarkannya, aku tidak bisa menjawabnya.
 
 **Hari 47**
 
@@ -160,7 +160,7 @@ Akhirnya aku sampai di titik dimana tidak bisa lagi berlari. Aku terjatuh cukup 
 
 **Hari 50**
 
-Beberapa hari belakangan ini kami lebih sering berbicara, tidak hanya di ruangan biasanya aku terluka, tetapi di kantin dan lorong sekolah. Aku bisa lebih terbuka soal nasib buruk ini kepadanya, yang tahu soal kutukan yang kuderita. Ia mendengar pembicaraan seorang guru dengan Ibuku dan mulai mencari-cari informasi sendiri. Alasan dia sering berada di UKS karena dia bertugas di sana, tetapi dari yang kulihat lelaki itu sama sekali tidak menjalankan tugasnya dengan benar. Ia juga berbicara dengan wanita itu.
+Beberapa hari belakangan ini kami lebih sering berbicara, tidak hanya di ruangan biasanya aku terluka, tetapi juga di kantin dan lorong sekolah. Aku bisa lebih terbuka soal nasibku kepadanya, yang tahu soal kutukan yang kuderita. Ia mendengar pembicaraan seorang guru dengan Ibuku dan mulai mencari-cari informasi sendiri. Alasan dia sering berada di UKS karena dia bertugas di sana, tetapi dari yang kulihat lelaki itu sama sekali tidak menjalankan tugasnya dengan benar. Ia juga berbicara dengan wanita itu.
 
 **Hari 51**
 
@@ -184,15 +184,15 @@ Mulai hari ini aku tidak akan berangkat ke sekolah. Kedua orang tuaku mengatakan
 
 **Hari 62**
 
-Ibu berhenti bekerja sepenuhnya, ia mendedikasikan waktunya untuk merawatku di rumah. Aku sudah mengatakan bahwa aku masih bisa berjalan, tetapi ia menolaknya dengan lembut. Pelukannya menghangatkan hatiku yang sudah membeku karena penyakit ini. Walau begitu aku masih tidak menerimanya, dan aku tidak akan menerimnya.
+Ibu berhenti bekerja sepenuhnya, ia menghabiskan waktunya tuk merawatku di rumah. Aku sudah mengatakan bahwa aku masih bisa berjalan, tetapi ia menolaknya dengan lembut. Pelukannya menghangatkan hatiku yang sudah membeku karena penyakit ini. Walau begitu aku masih tidak bisa menerimanya, dan aku tidak akan pernah menerimanya.
 
 **Hari 63**
 
-Karena tidak bersekolah aku mulai belajar mandiri di rumah, membaca beberapa buku pelajaran dan mempelajarinya sendiri. Tetap saja seberapa banyak kali aku membaca ulang, apa yang kubaca tidak bisa masuk dan tertanam di kepalaku dengan lama. Aku bisa melupakannya ketika membuka mata di hari esok.
+Karena tidak bersekolah aku mulai belajar mandiri di rumah, membaca beberapa buku pelajaran dan mempelajarinya sendiri. Tetap saja seberapa banyak kali aku membaca ulang, apa yang kubaca tidak bisa masuk dan tertanam di kepalaku dengan lama. Aku akan melupakannya ketika membuka mata keesokan harinya.
 
 **Hari 64**
 
-Lelaki itu datang berkunjung, suatu hal yang tidak kusangka akan ia lakukan. Ia bercerita soal apa yang terjadi di sekolah dan bagaimana keadaan kelasku setelah kepergianku. Tanpa mengucap sebuah kebohongan manis, ia berkata. “Tidak ada. Semua berjalan seperti biasa.”
+Lelaki itu datang berkunjung, suatu hal yang tidak kusangka akan ia lakukan. Ia bercerita soal apa yang terjadi di sekolah dan bagaimana keadaan kelas setelah kepergianku. Tanpa mengucap sebuah kebohongan manis, ia berkata. “Tidak ada. Semua berjalan seperti biasa.”
 
 **Hari 65**
 
@@ -200,11 +200,11 @@ Aku mulai takut membuka mata ketika pagi menyingsing. Aku tidak akan tahu apa ya
 
 **Hari 66**
 
-Wanita itu mengatakan bahwa aku harus dirawat di rumah sakit agar ia bisa mengawasiku secara penuh, tetapi baik aku dan Ibu menentang. Aku tidak ingin berada di tempat memuakkan ini selama sisa hidupku. Wanita itu hanya menerimanya, dia berkata akan siap sedia jika aku memang akan dirawat di sini. Aku tidak mempermasalahkan kebaikan hati miliknya. Lagipula, itulah pekerjaannya.
+Wanita itu mengatakan bahwa aku harus dirawat inap di rumah sakit agar ia bisa mengawasiku secara penuh, tetapi baik aku dan Ibu menentang. Aku tidak ingin berada di tempat memuakkan ini selama sisa hidupku. Wanita itu hanya menerimanya, dia berkata akan siap sedia jika aku memang akan dirawat di sini. Aku tidak mempermasalahkan kebaikan hati miliknya. Lagipula, itulah pekerjaannya.
 
 **Hari 67**
 
-Aku mulai susah menulis, jariku terasa kaku dan tanganku terasa berat. Aku tidak yakin bakal bisa melanjutkan hal ini.
+Tanganku mulai susah menulis, jariku terasa kaku dan lengaku terasa berat. Aku tidak terlalu yakin bakal bisa mengisi catatan ini lagi.
 
 **Hari 68**
 
@@ -212,7 +212,7 @@ Aku mendengar tangisan Ayah dan Ibu di ruang tamu.
 
 **Hari 70**
 
-Ayah memutuskan tuk mengambil cuti selama sebulan, selama sisa waktu yang tersisa hingga degup jantungku berhenti. Kami tertawa bersama ketika menonton acara komedi. Kebahagiaan sesaat nan kecil.
+Ayah memutuskan tuk mengambil cuti selama sebulan, selama sisa waktu yang tersisa hingga degup jantung terakhirku. Kami tertawa bersama ketika menonton acara komedi. Kebahagiaan sesaat nan kecil.
 
 **Hari 71**
 
@@ -232,11 +232,11 @@ Aku tidak pula membaik. Tidak ada kemajuan.
 
 **Hari 76**
 
-Aku mencoba rehabilitasi. Seperti ada bola besi puluhan kilo mengikat kakiku, tidak membiarkanku tuk melangkah. Aku juga diberikan alat untuk melatih pernapasanku.
+Mencoba rehabilitasi. Kakiku sekarang bagai besi berpuluh kilo, tidak membiarkanku tuk melangkah sedikitpun. Aku juga diberikan alat untuk melatih pernapasan.
 
 **Hari 77**
 
-Aku senang aroma bunga ya Ibu bawa. Ia tersenyum ketika aku mengatakannya.
+Aku senang aroma bunga yang Ibu bawa. Ia tersenyum ketika aku mengatakannya.
 
 **Hari 78**
 
@@ -244,11 +244,11 @@ Dua puluh dua hari, tidak ada perpanjangan.
 
 **Hari 79**
 
-Rehabilitasi tidak membuahkan hasil. Aku sudah mulai lupa beberapa kata. Aku tidak ingat lagi umurku berapa.
+Rehabilitasi tidak membuahkan hasil. Aku sudah mulai lupa beberapa kata. Aku tidak ingat tanggal ulang tahunku sendiri.
 
 **Hari 80**
 
-Seorang lelaki datang ke kamarku hari ini. Dia tidak berbicara dan hanya memandangku, seragam sekolah.
+Seorang lelaki datang ke kamarku hari ini. Dia tidak berbicara dan hanya memandangku, seragam sekolah. Aku tidak mengenalnya.
 
 **Hari 81**
 
@@ -256,11 +256,11 @@ Ibu mengatakan aku sering berteriak waktu tidur. Aku tidak tahu. Aku tidak tahu 
 
 **Hari 82**
 
-Pemeriksaan, tidak ada perubahan. Kakiku lumpuh sepenuhnya, aku mulai tidak bisa berbicara. Aku tidak bisa menggunakan kursi roda lagi.
+Pemeriksaan, tidak ada perubahan. Kakiku lumpuh sepenuhnya, aku mulai tidak bisa berbicara. Aku tidak bisa menggunakan kursi roda lagi. Terbaring di atas kasur ini.
 
 **Hari 85**
 
-Hanya kata yang keluar dari mulutku. Tetapi Ibu mengerti.
+Hanya kata-kata tidak jelas yang keluar dari mulutku. Tetapi Ibu mengerti.
 
 **Hari 86**
 
@@ -272,7 +272,7 @@ Siapa aku? Siapa wanita itu? Ah, Ibu. Ibu? Ibu siapa? Ibuku?
 
 **Hari 88**
 
-Wanita yang mengaku dokterku memeriksa keadaanku. Apa ini sudah biasa?
+Wanita yang mengaku dokter memeriksa keadaanku. Apa ini sudah biasa?
 
 **Hari 89**
 
@@ -315,3 +315,5 @@ A     k     uu    m    as     ii hi    du     p   k    a   n
 **Hari 99**
 
 **Hari 100**
+
+>Bagi yang penasaran dengan penyakitnya, ini adalah penyakit gabungan dari Spinocerebellar Ataxias (SCAs) dan Alzheimer, jadi di dunia nyata, semoga, tidak ada. Karena melalui riset seadanya unsur medis di dalamnya dikurangkan. Kalau ada waktu lebih mungkin bakal riset ulang soal penyakit ini.

@@ -1,7 +1,7 @@
 ---
 title: 'Benang Hitam'
 author: [Another Author]
-tags: ['Psychological']
+tags: ['Psychological', 'Slice of Life', 'Changed POV']
 image: ../../img/stories/benang-hitam.jpg
 date: '2020-10-20'
 draft: false

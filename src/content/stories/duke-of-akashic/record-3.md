@@ -2,8 +2,8 @@
 title: 'Duke of Akashic - Record III'
 author: [Bayu Setiawan]
 tags: ['Duke of Akashic']
-image: ../../img/stories/duke-of-akashic.jpg
-date: '2020-12-18'
+image: ../../img/stories/duke-of-akashic/duke-of-akashic-3.jpg
+date: '2021-01-18'
 draft: false
 ---
 Rambut hitam miliknya merupakan sesuatu yang jarang, dengan kulit pucat dan pakaian serba gelap membuatnya tampak bagai malaikat kematian yang ada di dalam kitab. Dirinya merupakan kumpulan misteri dan akan tetap menjadi misteri. Sosok yang dibuat tidak pernah ada, sosok yang telah digantikan dengan seseorang di depan umum, sosok yang memiliki besar kekaguman dariku sebanding dengan Ayahanda. Berjalan di belakangku bersama dengan tunangan dan pelayannya menuju ruangan terdalaman di istana ini. Tiada suara yang merembes, hanya Ayahanda yang memiliki gagang kuncinya, semua dibuat khusus untuk *duke* seorang. Bagi kami, tidak terkecuali Ayahanda, perkataannya adalah kepastian dan sarannya merupakan kewajiban.

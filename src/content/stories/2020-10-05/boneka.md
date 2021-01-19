@@ -1,7 +1,7 @@
 ---
 title: 'Boneka'
 author: [Bayu Setiawan]
-tags: ['Gore']
+tags: ['Mary', 'Gore']
 image: ../../img/stories/boneka.jpg
 date: '2020-10-05'
 draft: false

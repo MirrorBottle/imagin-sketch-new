@@ -1,7 +1,7 @@
 ---
 title: 'Apa Kamu Bisa Mendengarku'
 author: [Bayu Setiawan]
-tags: ['Romance']
+tags: ['Romance', 'Slice of Life']
 image: ../../img/stories/apa-kamu-bisa-mendengarku.jpg
 date: '2020-10-05'
 draft: false

@@ -11,6 +11,14 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-sharp',
+      options: {
+        defaultQuality: 100,
+        stripMetadata: true,
+      },
+    },
+    'gatsby-transformer-sharp',
     'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-robots-txt',
@@ -20,13 +28,7 @@ module.exports = {
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },
-    {
-      resolve: 'gatsby-plugin-sharp',
-      options: {
-        defaultQuality: 100,
-        stripMetadata: true,
-      },
-    },
+
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -67,7 +69,7 @@ module.exports = {
     },
     'gatsby-plugin-typescript',
     'gatsby-plugin-emotion',
-    'gatsby-transformer-sharp',
+
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     'gatsby-plugin-feed',

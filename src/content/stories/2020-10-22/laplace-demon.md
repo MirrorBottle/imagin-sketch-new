@@ -1,7 +1,7 @@
 ---
 title: 'Laplace Demon'
 author: [Bayu Setiawan]
-tags: ['Psychological']
+tags: ['Psychological', 'Slice of Life']
 image: ../../img/stories/laplace-demon.jpg
 date: '2020-10-22'
 draft: false

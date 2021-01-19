@@ -186,11 +186,11 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             <article css={[PostFull, !post.frontmatter.image && NoImage]}>
               <PostFullHeader className="post-full-header">
                 <PostFullTags className="post-full-tags">
-                  {post.frontmatter.tags && post.frontmatter.tags.length > 0 && (
-                    <Link to={`/tags/${_.kebabCase(post.frontmatter.tags[0])}/`}>
-                      {post.frontmatter.tags[0]}
+                  {post.frontmatter.tags && post.frontmatter.tags.length > 0 && post.frontmatter.tags.map(tag => (
+                    <Link style={{ color: colors.lightgrey }} to={`/tags/${_.kebabCase(tag)}/`}>
+                      #{tag}&nbsp;
                     </Link>
-                  )}
+                  ))}
                 </PostFullTags>
                 <PostFullTitle className="post-full-title">{post.frontmatter.title}</PostFullTitle>
                 <PostFullCustomExcerpt className="post-full-custom-excerpt">
@@ -308,10 +308,9 @@ const PostFullTags = styled.section`
   align-items: center;
   /* color: var(--midgrey); */
   color: ${colors.midgrey};
-  font-size: 1.3rem;
+  font-size: 1.7rem;
   line-height: 1.4em;
   font-weight: 600;
-  text-transform: uppercase;
 `;
 
 const PostFullCustomExcerpt = styled.p`
@@ -414,11 +413,9 @@ export const PostFullTitle = styled.h1`
 
 const PostFullImage = styled.figure`
   margin: 25px 0 50px;
-  height: 800px;
   background: ${colors.lightgrey} center center;
   background-size: cover;
   border-radius: 5px;
-
   @media (max-width: 1170px) {
     margin: 25px -6vw 50px;
     border-radius: 0;

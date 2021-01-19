@@ -56,14 +56,12 @@ exports.createPages = async ({ graphql, actions }) => {
       ) {
         edges {
           node {
-            excerpt
             timeToRead
             frontmatter {
               title
               tags
               date
               draft
-              excerpt
               image {
                 childImageSharp {
                   fluid(maxWidth: 3720) {

@@ -1,7 +1,7 @@
 ---
 title: 'Menjadi Diriku'
 author: [Bayu Setiawan]
-tags: ['Romance']
+tags: ['Romance', 'Changed POV']
 image: ../../img/stories/menjadi-diriku.jpg
 date: '2020-11-02'
 draft: false

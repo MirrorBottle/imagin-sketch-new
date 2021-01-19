@@ -4,6 +4,7 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: img/marvin-meyer-794521-unsplash.jpg
 date: '2020-08-24'
+excerpt: 'something'
 draft: true
 ---
 Belum ada.

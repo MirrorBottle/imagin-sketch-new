@@ -1,7 +1,7 @@
 ---
 title: 'Hak Bahagia'
 author: [Bayu Setiawan]
-tags: ['Slice of life']
+tags: ['Mary', 'Slice of life']
 image: ../../img/stories/hak-bahagia.jpg
 date: '2020-10-27'
 draft: false

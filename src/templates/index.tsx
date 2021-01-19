@@ -118,7 +118,7 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <main id="site-main" css={[SiteMain, outer]}>
-          <div css={[inner, Posts]}>
+          <div css={[inner]}>
             <div css={[PostFeed]}>
               {props.data.allMarkdownRemark.edges.map((post, index) => {
                 // filter out drafts in production
