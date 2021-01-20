@@ -20,6 +20,8 @@ import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
 import { AuthorList } from '../components/AuthorList';
+import { DiscussionEmbed } from "disqus-react"
+
 
 export interface Author {
   id: string;
@@ -115,7 +117,10 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
   const datetime = format(date, 'yyyy-MM-dd');
   // 20 AUG 2018
   const displayDatetime = format(date, 'dd LLL yyyy');
-
+  const disqusConfig = {
+      shortname: "imagin-sketch",
+      config: { identifier: location.pathname },
+  }
   return (
     <IndexLayout className="post-template">
       <Helmet>
@@ -233,10 +238,12 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
 
               {/* The big email subscribe modal content */}
               {config.showSubscribe && <Subscribe title={config.title} />}
+
+              <DiscussionEmbed {...disqusConfig} />
             </article>
           </div>
         </main>
-
+        
         <ReadNext
           currentPageSlug={location.pathname}
           tags={post.frontmatter.tags}
