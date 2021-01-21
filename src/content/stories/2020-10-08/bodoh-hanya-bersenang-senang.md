@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/bodoh-hanya-bersenang-senang.jpg
 date: '2020-10-08'
+imageBy: 'Daria Sukhorukova on Unpslash'
+imageLink: 'https://unsplash.com/photos/I51HSIo8k-4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 

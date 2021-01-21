@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of Life']
 image: ../../img/stories/tanpa-minum.jpg
 date: '2021-01-19'
+imageBy: 'Aarón Blanco Tejedor on Unpslash'
+imageLink: 'https://unsplash.com/photos/aocUkMcxeqI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Jadi apa hubunganmu sama wanita itu?”

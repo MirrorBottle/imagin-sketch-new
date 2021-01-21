@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Mary', 'Romance', 'Slice of life']
 image: ../../img/stories/kewajiban-kasih.jpg
 date: '2020-10-29'
+imageBy: 'Marco Bianchetti on Unpslash'
+imageLink: 'https://unsplash.com/photos/vzFTmxTl0DQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “KENAPA?!”

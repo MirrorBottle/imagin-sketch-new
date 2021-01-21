@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Psychological', 'Slice of Life']
 image: ../../img/stories/laplace-demon.jpg
 date: '2020-10-22'
+imageBy: 'Lucas Santos on Unpslash'
+imageLink: 'https://unsplash.com/photos/huRn8ECqADI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 

@@ -50,6 +50,8 @@ interface PageTemplateProps {
         title: string;
         date: string;
         userDate: string;
+        imageBy: string;
+        imageLink:string;
         image: {
           childImageSharp: {
             fluid: any;
@@ -98,6 +100,8 @@ export interface PageContext {
     title: string;
     date: string;
     draft?: boolean;
+    imageBy?: string;
+    imageLink?:string;
     tags: string[];
     author: Author[];
   };
@@ -232,6 +236,11 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
                     fluid={post.frontmatter.image.childImageSharp.fluid}
                     alt={post.frontmatter.title}
                   />
+                  {post.frontmatter.imageBy && (
+                    <a href={post.frontmatter.imageLink || '/'} target="_blank" rel="noopener noreferrer">
+                      &#9825; Photo by {post.frontmatter.imageBy}
+                    </a>
+                  )}
                 </PostFullImage>
               )}
               <PostContent htmlAst={post.htmlAst} />
@@ -420,9 +429,14 @@ export const PostFullTitle = styled.h1`
 
 const PostFullImage = styled.figure`
   margin: 25px 0 50px;
-  background: ${colors.lightgrey} center center;
   background-size: cover;
   border-radius: 5px;
+  a {
+    margin-left: 5px;
+    color: ${colors.lightgrey};
+    margin-top: 10px;
+    font-weight: bold;
+  }
   @media (max-width: 1170px) {
     margin: 25px -6vw 50px;
     border-radius: 0;
@@ -459,6 +473,8 @@ export const query = graphql`
         userDate: date(formatString: "D MMMM YYYY")
         date
         tags
+        imageBy
+        imageLink
         excerpt
         image {
           childImageSharp {

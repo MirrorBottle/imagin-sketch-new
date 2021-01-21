@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/sebuah-meja-kayu.jpg
 date: '2020-11-03'
+imageBy: 'Annie Spratt on Unpslash'
+imageLink: 'https://unsplash.com/photos/ZVQhy9KGoSY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Tak ada suara yang terdengar, hanya kesunyian menjelang senja yang mengisi kekosongan ruang. Sesekali gesekan antara kulit yang membalik halaman buku terdengar, dari arah ujung ruangan yang bermandikan cahaya jingga. Ia memandang kosong, entah apa yang dilihat oleh kedua mata itu dengan sedikit sayu. Di luar jendela, masih ada beberapa orang yang belum meninggalkan tempat ini. Tawa sayup terdengar di antara mereka, dan ia tersenyum tanpa alasan yang pasti. Suara kertas kembali terdengar, jari-jari lentiknya membalik halaman yang telah ia baca.

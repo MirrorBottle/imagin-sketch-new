@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Romance']
 image: ../../img/stories/sendiri.jpg
 date: '2020-11-03'
+imageBy: 'Bruno van der Kraan on Unpslash'
+imageLink: 'https://unsplash.com/photos/v2HgNzRDfII?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 

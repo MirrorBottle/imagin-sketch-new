@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Mary', 'Slice of life']
 image: ../../img/stories/hak-bahagia.jpg
 date: '2020-10-27'
+imageBy: 'Gabriel on Unpslash'
+imageLink: 'https://unsplash.com/photos/wU_KFrosSfs?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 

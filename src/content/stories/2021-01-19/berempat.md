@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of Life']
 image: ../../img/stories/berempat.jpg
 date: '2021-01-19'
+imageBy: 'Hans Vivek on Unpslash'
+imageLink: 'https://unsplash.com/photos/TPF3Whf0JCg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Aku tidak menyangka hari ini akan tiba. Lima tahun? Tidak, kurasa lebih lama. Akhirnya penantianku akan berakhir, entah kenapa bahuku terasa lebih ringan. Sekali lagi aku berbalik, waktu terasa terhenti di tempat ini. Seharusnya dia mengatakan waktunya juga, aku harus menunggu dari pagi seorang diri di sini. Yah, tapi aku juga tidak ada kerjaan lain, dan orang-orang tidak bisa menatap aneh diriku. Kalau tidak salah aku memang selalu seperti ini, menjadi yang pertama datang.

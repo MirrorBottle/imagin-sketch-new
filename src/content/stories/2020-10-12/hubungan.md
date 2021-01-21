@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/hubungan.jpg
 date: '2020-10-12'
+imageBy: 'Scott Broome on Unpslash'
+imageLink: 'https://unsplash.com/photos/BcVvVvqiCGA-4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Bibirnya merayap dari tulang selangkaku menuju leher, segera aku mendorong bahu tegapnya seketika hisapan yang kembali membangkitkan gairah itu terasa.

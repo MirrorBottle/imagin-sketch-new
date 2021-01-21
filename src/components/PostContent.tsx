@@ -158,7 +158,7 @@ export const PostFullContent = styled.section`
   blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: #ddd 3px solid;
   }
   @media (max-width: 500px) {
     blockquote {

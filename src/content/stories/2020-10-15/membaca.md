@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Changed POV']
 image: ../../img/stories/membaca.jpg
 date: '2020-10-15'
+imageBy: 'Erica Li on Unpslash'
+imageLink: 'https://unsplash.com/photos/vk40AN_mtGY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Akan ada tiga orang di tempat ini, termasuk diriku, si Penyihir sudah menempati posisinya, sepertinya ksatria tampan itu terlambat.

@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of Life']
 image: ../../img/stories/penunggu-rumah-kosong.jpg
 date: '2020-09-02'
+imageBy: 'Nick van den Berg on Unsplash'
+imagelink: 'https://unsplash.com/photos/6x387K_MWtI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Di seberang sana, sebuah rumah tua bersemayam sendiri. Dinding kayunya yang mulai lapuk termakan waktu, pagar-pagar tuanya yang diselimuti lumut hijau. Banyak yang mengatakan rumah itu kosong. Banyak yang mempercepat langkah ketika melewatinya. Dari balik jendela kamar ini, aku dapat melihat mereka bergidik saat mendekati rumah itu. Terkadang aku tertawa, terkadang aku merasa sedih. Cerita ini bukanlah tentang diriku, kisah tentang seseorang yang mendiami rumah itu, penantian seorang wanita.

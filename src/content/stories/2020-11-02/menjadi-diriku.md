@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Romance', 'Changed POV']
 image: ../../img/stories/menjadi-diriku.jpg
 date: '2020-11-02'
+imageBy: 'Nathaniel Kohfield on Unpslash'
+imageLink: 'https://unsplash.com/photos/uFQYTNdIp80?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Maaf… apa kamu bisa mengulanginya?”

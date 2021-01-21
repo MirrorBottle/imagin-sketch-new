@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Psychological', 'Slice of Life', 'Changed POV']
 image: ../../img/stories/benang-hitam.jpg
 date: '2020-10-20'
+imageBy: 'Kelly Sikkema on Unpslash'
+imageLink: 'https://unsplash.com/photos/5g8exOobDjg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Apa aku mengganggu?”

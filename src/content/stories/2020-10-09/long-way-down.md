@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/long-way-down.jpg
 date: '2020-10-09'
+imageBy: 'Mohammed Ajwad on Unpslash'
+imageLink: 'https://unsplash.com/photos/lhvWq8i-0m8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Aku membuka pintu, “Apa aku menganggu?”

@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Mary', 'Gore']
 image: ../../img/stories/boneka.jpg
 date: '2020-10-05'
+imageBy: 'Sigrid Wu on Unpslash'
+imageLink: 'https://unsplash.com/photos/KSTM340nmyA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Tempat ini hanya memberiku rasa mual tidak tertahan sejak aku turun dari mobil. Menyadari keterlambatanku, segera aku mempercepat langkah menuju empat orang di sana. Tidak ada wajah baru kali ini, kecuali satu yang memegang senapan laras panjang di hadapanku. Wai, Dee, Jy, dan—

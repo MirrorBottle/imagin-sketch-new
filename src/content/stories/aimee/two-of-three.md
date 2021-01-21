@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Aimee', 'Romance', 'Slice of Life']
 image: ../../img/stories/aimee/two-of-three.jpg
 date: '2021-01-19'
+imageBy: 'Nathan Dumlao on Unpslash'
+imageLink: 'https://unsplash.com/photos/5BB_atDT4oA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Besok aku akan menikah.”

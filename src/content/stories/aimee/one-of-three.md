@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Aimee', 'Romance', 'Slice of Life']
 image: ../../img/stories/aimee/one-of-three.jpg
 date: '2021-01-19'
+imageBy: 'Bich Ngoc Le on Unpslash'
+imageLink: 'https://unsplash.com/photos/tslOpGXKj-c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Apa ini tidak apa?”

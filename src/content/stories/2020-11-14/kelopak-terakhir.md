@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/kelopak-terakhir.jpg
 date: '2020-11-14'
+imageBy: '一本花 on Mangadex'
+imageLink: 'https://mangadex.org/title/38818/one-flower'
 draft: false
 ---
 “Sebenarnya ini tidak terlalu bagus.”
@@ -61,3 +63,5 @@ Terus melihatnya memberiku perasaan yang tidak enak, tetapi jempol masih membeku
 Butuh waktu beberapa menit hingga aku dapat menghilangkan lukisan itu dari pikiran. Hingga, suatu berita tertangkap oleh mataku. Bunuh diri, seorang gadis, aku sudah tahu tanpa perlu membaca beritanya. Dengan cepat aku membuka daftar kontak dan berhenti di nomor yang selama ini tidak pernah kuhubungi, berdering, tidak ada jawaban.
 
 Apa dia bernasib sama seperti kakaknya?
+
+>   Fan fiction dari ["Ippon Bana"](https://mangadex.org/title/38818/one-flower).

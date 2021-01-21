@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Horror']
 image: ../../img/stories/live-chat.jpg
 date: '2020-10-16'
+imageBy: 'Christian Wiediger on Unpslash'
+imageLink: 'https://unsplash.com/photos/NmGzVG5Wsg8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Terima kasih semuanya ❤❤❤❤” – NekoNeko (streamer)

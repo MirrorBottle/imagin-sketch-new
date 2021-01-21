@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/yang-seharusnya-tidak-ada.jpg
 date: '2020-11-20'
+imageBy: 'jules a. on Unpslash'
+imageLink: 'https://unsplash.com/photos/vhipf5S4KX0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Kosong, seperti bagaimana mestinya. Sedikit angin berhembus, berkas cahaya jingga. Tanganku bergerak atas dasar kewajiban, aku masih di sini karena kewajiban. Tapi kurasa hal itu tidak berlaku bagi nama-nama lain yang tertera di kertas selembar yang sama. Hari ketiga setiap minggu, aku menunggu hingga tiada lagi orang di tempat ini. Canda tawa telah sirna, hanya terdengar langkah dan kaki kursi yang menghentak sesekali. Terkadang lima orang ada, biasa tiga orang, lebih sering sendiri. Aku tidak keberatan, itulah yang ada di benak ini. “Ini tidak masalah” atau “Aku bisa melakukannya sendiri”, berbagai macam alasan untuk memuaskan diriku sendiri. Suara langkah milik orang lain, sosoknya berdiri di ambang pintu.

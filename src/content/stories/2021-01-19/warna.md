@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of Life']
 image: ../../img/stories/warna.jpg
 date: '2021-01-19'
+imageBy: 'Hulki Okan Tabak on Unpslash'
+imageLink: 'https://unsplash.com/photos/eY9wnVZOIWg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Jadi kali ini pohon, ya?”

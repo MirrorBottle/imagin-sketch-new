@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Gore']
 image: ../../img/stories/pesta-sendiri.jpg
 date: '2020-11-03'
+imageBy: 'David Menidrey on Unpslash'
+imageLink: 'https://unsplash.com/photos/MYRG0ptGh50?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Lagi?” aku langsung kembali memasukkan ponsel ke dalam saku celana tanpa membukanya.

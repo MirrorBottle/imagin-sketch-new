@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Duke of Akashic']
 image: ../../img/stories/duke-of-akashic/duke-of-akashic-two.jpg
 date: '2020-12-18'
+imageBy: 'Lukasz Szmigiel on Unpslash'
+imageLink: 'https://unsplash.com/photos/jFCViYFYcus?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Tunjukkan dirimu sebelum diriku mengeluarkan perintah tuk menebang pohonmu, *dryad*.”

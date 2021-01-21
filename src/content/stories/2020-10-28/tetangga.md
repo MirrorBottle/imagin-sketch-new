@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/tetangga.jpg
 date: '2020-10-28'
+imageBy: 'Gleren Meneghin on Unpslash'
+imageLink: 'https://unsplash.com/photos/VSLPOL9PwB8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Sudah makan?”

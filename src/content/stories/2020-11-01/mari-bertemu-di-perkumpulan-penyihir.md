@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of life']
 image: ../../img/stories/mari-bertemu-di-perkumpulan-penyihir.png
 date: '2020-11-01'
+imageBy: '魔女集会で会いましょう on Mangadex'
+imageLink: 'https://mangadex.org/title/42353/majo-shuukai-de-aimashou'
 draft: false
 ---
 

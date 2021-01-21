@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Romance']
 image: ../../img/stories/riot.jpg
 date: '2020-10-08'
+imageBy: 'Michael Jasmund on Unpslash'
+imageLink: 'https://unsplash.com/photos/_OTYxeR7QwM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Bagaimana aku bisa berakhir di sini.”

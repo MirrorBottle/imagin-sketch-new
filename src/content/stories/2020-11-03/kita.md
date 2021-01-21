@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Psychological']
 image: ../../img/stories/kita.jpg
 date: '2020-11-03'
+imageBy: 'Tamara Gak on Unpslash'
+imageLink: 'https://unsplash.com/photos/1vZAezBEADw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 

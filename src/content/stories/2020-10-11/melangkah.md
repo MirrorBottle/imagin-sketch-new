@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Romance']
 image: ../../img/stories/melangkah.jpg
 date: '2020-10-11'
+imageBy: 'Dmitry Schemelev on Unpslash'
+imageLink: 'https://unsplash.com/photos/sLp-kPZatLc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Permisi, aku ingin satu yang ini.”

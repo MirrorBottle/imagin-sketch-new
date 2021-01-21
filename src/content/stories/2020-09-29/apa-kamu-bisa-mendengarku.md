@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Romance', 'Slice of Life']
 image: ../../img/stories/apa-kamu-bisa-mendengarku.jpg
 date: '2020-10-05'
+imageBy: 'Glen Carie on Unsplash'
+imageLink: 'https://unsplash.com/photos/BQ365ixMYu8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 “Aku pergi dulu.”

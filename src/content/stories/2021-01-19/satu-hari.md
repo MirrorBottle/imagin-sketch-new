@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Slice of Life']
 image: ../../img/stories/satu-hari.jpg
 date: '2021-01-19'
+imageBy: 'Susanne Schwarz on Unpslash'
+imageLink: 'https://unsplash.com/photos/L-Iq1Zw1eOg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Sepertinya aku tidak punya pilihan selain percaya… kan?

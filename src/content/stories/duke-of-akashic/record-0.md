@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Duke of Akashic']
 image: ../../img/stories/duke-of-akashic/duke-of-akashic.jpg
 date: '2020-12-13'
+imageBy: 'Mike van den Bos on Unpslash'
+imageLink: 'https://unsplash.com/photos/06NqqrLLbz4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Diriku merupakan seseorang yang dipanggil *duke*, seseorang yang berdiri tepat di bawah perintah Paduka. Walau begitu, diriku tidak memiliki wilayah, tidak pula tanah atau rakyat yang harus kujaga, hanya ada hunian besar di tengah hutan antah-berantah ini. Diriku memahami alasannya, menerima layaknya yang dilakukan mendiang Ayah beserta orang tuanya. Seorang *duke* tanpa daerah kekuasaan, diriku tampak lebih santai ketimbang bangsawan lainnya. Tidak akan kusangkal hal tersebut. Dibebaskan dari tanggung jawab terhadap banyak kehidupan, mempertahankan tanah, serta menjadi seorang pemimpin yang bisa selalu diandalkan. Jika boleh jujur, diriku tidak masalah berada di posisi itu, tetapi titah Paduka mutlak.

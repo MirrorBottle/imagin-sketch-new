@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Psychological', 'Horror']
 image: ../../img/stories/nevada-tan.jpg
 date: '2021-01-19'
+imageBy: 'Ayuko Iki on Zerochan'
+imageLink: 'https://www.zerochan.net/462220'
 draft: false
 ---
 

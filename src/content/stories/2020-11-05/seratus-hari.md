@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Psychological', 'Slice of Life']
 image: ../../img/stories/100-hari.jpg
 date: '2020-11-05'
+imageBy: 'Fa Barboza on Unpslash'
+imageLink: 'https://unsplash.com/photos/uDdznFRG41k?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 **Hari 1**

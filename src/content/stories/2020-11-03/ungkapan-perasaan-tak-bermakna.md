@@ -4,6 +4,8 @@ author: [Bayu Setiawan]
 tags: ['Psychological']
 image: ../../img/stories/ungkapan-perasaan-tak-bermakna.jpg
 date: '2020-11-03'
+imageBy: 'Mehdi Babousan on Unpslash'
+imageLink: 'https://unsplash.com/photos/MDnZnZPqSms?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
 Kulangkahkan kaki ini di atas keringnya rerumputan, layu dan gersang tanpa ada tetesan hujan. Kugapai angin yang tak terlihat dan tak tersentuh, layaknya angan-angan yang terbang tanpa bisa kucapai. Kunyanyikan lagu sendu ini kepada bunga-bunga yang kuncup tertutup, agar mereka dapat mekar dengan indah layaknya kesedihan yang kurasakan sekarang. Lagu sendu yang penuh akan pilu dan rindu yang menjadi kenangan masa laluku, dengan melodi lembut yang tebentuk dari tipu dayamu.
