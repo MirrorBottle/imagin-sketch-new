@@ -231,20 +231,19 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
 
               {post.frontmatter.image?.childImageSharp && (
                 <PostFullImage>
-                  {post.frontmatter.imageBy && (
-                    <div style={{paddingLeft: "10px"}}>
-                      <a href={post.frontmatter.imageLink || '/'} target="_blank" rel="noopener noreferrer">
-                        &#9825; Photo by {post.frontmatter.imageBy}
-                      </a>
-                    </div>
-                  )}
-                  <br/>
                   <Img
                     style={{ height: '100%' }}
                     fluid={post.frontmatter.image.childImageSharp.fluid}
                     alt={post.frontmatter.title}
                   />
-                  
+                  {post.frontmatter.imageBy && (
+                    <div style={{ paddingLeft: "10px" }}>
+                      <a href={post.frontmatter.imageLink || '/'} target="_blank" rel="noopener noreferrer">
+                        &#9825; Photo by {post.frontmatter.imageBy}
+                      </a>
+                    </div>
+                  )}
+                  <br />
                 </PostFullImage>
               )}
               <PostContent htmlAst={post.htmlAst} />
