@@ -90,17 +90,6 @@ const IndexPage: React.FC<IndexProps> = props => {
         )}
         <meta property="og:image:width" content={width.toString()} />
         <meta property="og:image:height" content={height.toString()} />
-        <script type="application/ld+json">{JSON.stringify({
-          '@context': 'https://schema.org',
-          '@type': 'Organization',
-          url: config.siteUrl,
-          name: 'My website',
-          contactPoint: {
-            '@type': 'ContactPoint',
-            telephone: '+62-823-531-65184' ,
-            contactType: 'Customer service',
-          },
-        })}</script>
       </Helmet>
       <Wrapper>
         <div

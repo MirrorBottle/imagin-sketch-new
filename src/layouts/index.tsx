@@ -23,8 +23,8 @@ const IndexLayout: React.FC<IndexProps> = props => {
             {
               "@context": "https://schema.org",
               "@type": "WebSite",
-              "url":  ${config.siteUrl},
-              "name": ${config.title},
+              "url": "${config.siteUrl}",
+              "name": "${config.title}",
               "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+6282353165184",
