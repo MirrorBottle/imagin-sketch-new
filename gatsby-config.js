@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'ImaginSketch',
-    description: 'Sebuah tempat untuk menaruh cerita',
+    description: 'Di tempat ini aku menaruh coretan dari berbagai kisah. Tempat berkumpulnya kisah.',
     siteUrl: 'https://imagin-sketch.netlify.app', // full path to blog - no ending slash
   },
   mapping: {
