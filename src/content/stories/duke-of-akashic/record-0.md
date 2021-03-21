@@ -35,6 +35,7 @@ Sebuah meja panjang nan megah, ditempatkan di ruangan bak aula yang dapat menamp
 “Apa Pak Tua membawanya?”
 
 Aku menundukkan kepala, “Ya, Tuan Kepala Pelayan membawa boneka pemberian Tuanku tuk diberikan kepada cucunya.”
+
 “Aku harap anak itu senang.”
 
 “Saya yakin apapun pemberian Tuanku sudah sepatutnya diperlakukan sebagai berkah, ditambah boneka tersebut merupakan barang pribadi Tuanku.”
