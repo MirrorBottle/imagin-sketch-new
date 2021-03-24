@@ -1,6 +1,6 @@
 import { graphql } from 'gatsby';
 import { FixedObject } from 'gatsby-image';
-import React from 'react';
+import React, {useEffect} from 'react';
 import { Helmet } from 'react-helmet';
 
 import { css } from '@emotion/react';
@@ -52,7 +52,9 @@ export interface IndexProps {
 
 const IndexPage: React.FC<IndexProps> = props => {
   const { width, height } = props.data.header.childImageSharp.fixed;
-
+  useEffect(() => {
+    console.log(props);
+  }, []);
   return (
     <IndexLayout css={HomePosts}>
       <Helmet>
