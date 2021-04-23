@@ -8,7 +8,7 @@ imageBy: 'DANNY G on Unsplash'
 imageLink: 'https://unsplash.com/photos/l2NRQNkQ2Qk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'
 draft: false
 ---
-Satu menarik napas, semua melakukannya. Ia berkedip, begitu pula lainnya. Membasahi bibir keringnya dengan ludah, menengadahkan kepala, melihat langit kamar yang sama dengna cara berbeda. Secara bersamaan, namun tidak pula secara bersamaan. Kontradiksi, bukan? Itulah mereka… dan mungkin diri ini pula. Ada empat pecundang di ruangan ini, tidak kumasukkan diriku dalam hitungan. Untuk kali ini—diriku hanya diam dan mendengarkan—hanya ada mereka. Empat pecundang yang nyata, terkumpul karena melarikan diri dari hal yang sama. Rasa takut.
+Satu menarik napas, semua melakukannya. Ia berkedip, begitu pula lainnya. Membasahi bibir keringnya dengan ludah, menengadahkan kepala, melihat langit kamar yang sama dengan cara berbeda. Secara bersamaan, namun tidak pula secara bersamaan. Kontradiksi, bukan? Itulah mereka… dan mungkin diri ini pula. Ada empat pecundang di ruangan ini, tidak kumasukkan diriku dalam hitungan. Untuk kali ini—diriku hanya diam dan mendengarkan—hanya ada mereka. Empat pecundang yang nyata, terkumpul karena melarikan diri dari hal yang sama. Rasa takut.
 
 Ia menoleh—si pemalu yang selalu menenggelamkan wajahnya di balik buku tebal—melihat keluar jendela yang terhalang ranting pohon. Tak berdaun dan kering, aku menutupnya agar angin dingin tak berhembus masuk. Gadis itu mulai sadar akan sesuatu. Hal yang lumrah namun mudah terlupa, hal yang selalu menghantui tidurnya namun tidak terasa. Musim bergulir, waktu berlalu, mereka—diriku—bertambah tua. Apa yang ada di kepalanya adalah rasa nostalgia melihat ranting pohon kering itu. Dia bukanlah sosok pikun, lagipula tiada yang terlupa apabila tidak pernah diingat. Tidak salah lagi di pagi hari matanya terbuka pohon itu ada, di saat ia menaikkan selimut tetap tidak berpindah. Akan aneh jika tiba-tiba tidak ada, bukan? Walau begitu, gadis pemalu ini tetap merasa nostalgia melihatnya dan berkata:
 
@@ -18,7 +18,7 @@ Ia menoleh—si pemalu yang selalu menenggelamkan wajahnya di balik buku tebal�
 
 “Karena kamu mengambil tempatku, dasar pencuri!”
 
-Gadis yang disebut pencuri itu tertawa lembut. Sosoknya anggun, feminim, kata ‘ramah’ itu sendiri mungkin ada karenanya. Disebut malaikat oleh para pria sebayanya, disebut sahabat terbaik oleh perempuan seusianya. Gadis sempurna, sangat sempurna, terlalu sempurna. Karena itu ia bersinar bagai matahari, karena itu pula ia tenggelam dalam malam setelahnya. Terlalu baik, mudah dimanfaatkan. Terlau pengertian, mudah memaafkan. Setiap kali mereka tertawa, gadis itu memberikan sebuah senyuman. Mereka menertawakanmu, bodoh.
+Gadis yang disebut pencuri itu tertawa lembut. Sosoknya anggun, feminim, kata ‘ramah’ itu sendiri mungkin ada karenanya. Disebut malaikat oleh para pria sebayanya, disebut sahabat terbaik oleh perempuan seusianya. Gadis sempurna, sangat sempurna, terlalu sempurna. Karena itu ia bersinar bagai matahari, karena itu pula ia tenggelam dalam malam setelahnya. Terlalu baik, mudah dimanfaatkan. Terlalu pengertian, mudah memaafkan. Setiap kali mereka tertawa, gadis itu memberikan sebuah senyuman. Mereka menertawakanmu, bodoh.
 
 “Walau begitu aku juga tidak terlalu lama menggantikanmu,” wajahnya yang sempat suram kembali membentuk senyum, “tidak, aku sudah sangat senang dapat kesempatan melakukannya.”
 
@@ -48,6 +48,7 @@ Dan tak lagi memanggil.
 “Mulutmu masih tajam seperti pertama kali kita bertemu, kakakku tersayang.”
 
 Dahinya mengerut mendengar ucapan gadis itu, “Jangan panggil aku seperti itu, dasar palsu!”
+
 Tawa gadis yang mengejeknya semakin menjadi-jadi. Kami dapat mendengar tawanya, namun tidak bisa tertawa bersamanya. Tentu saja tidak mungkin.
 
 “Kenyataannya kita semua palsu, bukan?” ucap gadis pemalu itu.
