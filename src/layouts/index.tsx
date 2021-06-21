@@ -310,7 +310,7 @@ const IndexLayout: React.FC<IndexProps> = props => {
 
           ::selection {
             text-shadow: none;
-            background: ${lighten('0.3', colors.blue)};
+            background: ${lighten('0.3', colors.darkgrey)};
           }
 
           hr {

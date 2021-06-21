@@ -3,9 +3,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'ImaginSketch',
+    title: 'Penaku',
     description: 'Di tempat ini aku menaruh coretan dari berbagai kisah. Tempat berkumpulnya kisah.',
-    siteUrl: 'https://imagin-sketch.netlify.app', // full path to blog - no ending slash
+    siteUrl: 'https://penaku.my.id', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://imagin-sketch.netlify.app',
-        sitemap: 'https://imagin-sketch.netlify.app/sitemap.xml',
+        host: 'https://penaku.my.id',
+        sitemap: 'https://penaku.my.id/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },
@@ -63,7 +63,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://imagin-sketch.netlify.app',
+        siteUrl: 'https://penaku.my.id',
       },
     },
     'gatsby-plugin-typescript',
@@ -75,8 +75,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ImaginSketch`,
-        short_name: `imaginsketch`,
+        name: `Penaku`,
+        short_name: `penaku`,
         start_url: `/`,
         background_color: `#191B1F`,
         theme_color: `#191B1F`,

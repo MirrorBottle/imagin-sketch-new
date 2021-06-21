@@ -44,7 +44,7 @@ const SiteNavLogoStyles = css`
   flex-shrink: 0;
   display: inline-block;
   margin-right: 32px;
-  padding: 12px 0;
+  padding: 0px;
   color: #fff;
   font-size: 1.7rem;
   line-height: 1.8rem;
@@ -59,7 +59,7 @@ const SiteNavLogoStyles = css`
   img {
     display: block;
     width: auto;
-    height: 21px;
+    height: 50px;
   }
 `;
 

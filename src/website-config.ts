@@ -49,12 +49,12 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'ImaginSketch',
+  title: 'Penaku',
   description: 'Di tempat ini aku menaruh coretan dari berbagai kisah. Tempat berkumpulnya kisah.',
-  coverImage: 'img/blog-cover.png',
+  coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://imagin-sketch.netlify.app',
+  siteUrl: 'https://penaku.my.id',
   facebook: 'https://www.facebook.com/MirrorBottle',
   twitter: 'https://twitter.com/MirrorBottle',
   showSubscribe: false,
