@@ -80,8 +80,5 @@
   "browserslist": [
     ">5%",
     "not dead"
-  ],
-  "engines": {
-    "node": ">=14.0.0"
-  }
+  ]
 }
